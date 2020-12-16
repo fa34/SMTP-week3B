@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+h1{
+    border: 2px dotted yellow;
+}
+h3+p{
+    background-color: aqua;
+}
+#1line{
+background-color: aqua;
+
+
+}
+
+.1line{
+    background-color: aqua;
+    
+    
+    }
+    h2{
+        background-color: rgb(220, 50, 150);
+    }
+    h4{
+        background-color: hsl(0, 10%, 65%);
+    }
+    h5{
+        background-color: bisque;
+    }
